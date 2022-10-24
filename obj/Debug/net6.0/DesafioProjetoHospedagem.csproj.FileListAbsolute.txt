@@ -1,0 +1,15 @@
+E:\Projetos\DIO\Pottencial\Desafio2\Desafio2\bin\Debug\net6.0\DesafioProjetoHospedagem.exe
+E:\Projetos\DIO\Pottencial\Desafio2\Desafio2\bin\Debug\net6.0\DesafioProjetoHospedagem.deps.json
+E:\Projetos\DIO\Pottencial\Desafio2\Desafio2\bin\Debug\net6.0\DesafioProjetoHospedagem.runtimeconfig.json
+E:\Projetos\DIO\Pottencial\Desafio2\Desafio2\bin\Debug\net6.0\DesafioProjetoHospedagem.dll
+E:\Projetos\DIO\Pottencial\Desafio2\Desafio2\bin\Debug\net6.0\DesafioProjetoHospedagem.pdb
+E:\Projetos\DIO\Pottencial\Desafio2\Desafio2\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.AssemblyReference.cache
+E:\Projetos\DIO\Pottencial\Desafio2\Desafio2\obj\Debug\net6.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\DIO\Pottencial\Desafio2\Desafio2\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+E:\Projetos\DIO\Pottencial\Desafio2\Desafio2\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+E:\Projetos\DIO\Pottencial\Desafio2\Desafio2\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+E:\Projetos\DIO\Pottencial\Desafio2\Desafio2\obj\Debug\net6.0\DesafioProjetoHospedagem.dll
+E:\Projetos\DIO\Pottencial\Desafio2\Desafio2\obj\Debug\net6.0\refint\DesafioProjetoHospedagem.dll
+E:\Projetos\DIO\Pottencial\Desafio2\Desafio2\obj\Debug\net6.0\DesafioProjetoHospedagem.pdb
+E:\Projetos\DIO\Pottencial\Desafio2\Desafio2\obj\Debug\net6.0\DesafioProjetoHospedagem.genruntimeconfig.cache
+E:\Projetos\DIO\Pottencial\Desafio2\Desafio2\obj\Debug\net6.0\ref\DesafioProjetoHospedagem.dll
